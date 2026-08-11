@@ -18,7 +18,10 @@ The first working version of CORC includes:
 
 ## UI — v0.1
 
-![CORC v0.1](assets/corc-v0.1.png)
+<p align="center">
+  <img src="./assets/corc-v0.1" width="48%">
+  <img src="./assets/corc-v0.1.1" width="48%">
+</p>
 
 ---
 
